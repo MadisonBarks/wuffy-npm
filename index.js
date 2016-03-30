@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 console.log("                        __    __                  \n");
 console.log("                       / _|  / _|                 \n");
 console.log("   __      __  _   _  | |_  | |_   _   _          \n");

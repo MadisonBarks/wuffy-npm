@@ -1,15 +1,19 @@
 {
   "name": "wuffy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wuff",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "wuffy": "index.js"
   },
   "repository": {
     "type": "git",
     "url": "https://www.github.com/captgreen1/wuffy-npm"
   },
   "author": "wuffy_",
-  "license": "MIT"
+  "license": "MIT",
+  "preferGlobal": true
 }
